@@ -1,12 +1,21 @@
 # Team-1-DudePerfect
 
-The below assignments are mandatory to submit by its deadline as delay in submission can lead to disqualification of the team from the Web I/O bootcamp and same action will be taken if any plagiarism found in the submitted source code.
+This repository contains the assignments submitted by the team *DudePerfect* during Web I/O Bootcamp organized by IEEE CIS SBC - GHRCE.
 
-### Weekly Assignments - Phase 1 Web I/O
+### Team Members
 
-|Weeks           |Submission Deadline            |Assignment Names             |
-|----------------|-------------------------------|-----------------------------|
-|Week-1          |27-09-21 <br /> 11:59 AM (IST) |**Portfolio Website** <br /> Make a portfolio website, which should be beautifully styled and interactive. It should be 4 page website representing each member’s portfolio on each page.|
-|Week-2          |04-10-21 <br /> 11:59 AM (IST) |**Responsive Website** <br /> Make a responsive and interactive website and use any of the public API’s. Each team needs to select only one API from the list below. <br /> Link: https://github.com/public-apis/public-apis|
-|Week-3          |11-10-21 <br /> 11:59 AM (IST) |**Blogging Website** <br /> Make a UI design for blogging website using Figma or Adobe XD or Framer.|
-|Week-4          |18-10-21 <br /> 11:59 AM (IST) |**React/Vue Capstone Project** <br /> 1. E-Commerce app <br /> 2. Portfolio Builder app <br /> 3. Online recipes app <br /> 4. Social Media app <br /> 5. Travel Booking App <br /> Out of these topics, randomly any one project topic will be assigned to the each team by the organisers.|
+|Sr. No. |Member Name            | Member Type             |
+|--------|-----------------------|-------------------------|
+|1       |Ashwin Rathod          |Team Leader              |
+|2       |Sumeet Ghodmare        |Team Member #2           |
+|3       |Ankit Sayne            |Team Member #3           |
+|4       |Rutwik Fender          |Team Member #4           |
+
+### List of assignments
+Click [here](https://drive.google.com/file/d/1biPwqhfs-5u9qjVjGxo8hCEZg8euCXhl/view?usp=sharing)!
+
+### Instructions
+
+ - Each assignment should be pushed in individual folder. Eg. Assignment for the week-1 should be uploaded in the `Week-1` folder.
+ - Each team need to submit the assignments by their respective deadlines. Failing to submit the assignments before the deadline will lead to disqualification of the team from the Web I/O Bootcamp.
+ - The assignments will be evaluated with the special plagiarism checking tool. If the source code is found plagiarised, the team will be disqualified.
